@@ -22,6 +22,6 @@ Kong will be available through the `nginx-lb` instance on port `8000`, and `8001
 
 Konga will be available through on port `1337`.
 
-Kong's documentation can be found at [https://docs.konghq.com/][kong-docs-url].
+Kong's documentation can be found at https://docs.konghq.com/
 
-Konga's documentation can be found at [https://github.com/pantsel/konga][konga-url].
+Konga's documentation can be found at https://github.com/pantsel/konga
